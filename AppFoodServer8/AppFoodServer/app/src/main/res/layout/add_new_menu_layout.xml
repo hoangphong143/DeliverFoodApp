@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="4dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_margin="20dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:layout_width="match_parent"
+            android:id="@+id/edtName"
+            android:hint="Tên danh mục"
+            android:textColorHint="@color/colorPrimary"
+            android:layout_margin="5dp"
+            android:textColor="@color/colorPrimary"
+            android:inputType="text"
+            android:textSize="30sp"
+            app:met_baseColor="@color/colorPrimary"
+            app:met_floatingLabel="highlight"
+
+            app:met_primaryColor="@color/colorPrimary"
+            app:met_singleLineEllipsis="true"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:weightSum="2"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <info.hoang8f.widget.FButton
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:textColor="@android:color/white"
+                android:text="Chọn ảnh"
+                android:id="@+id/btnSelect"
+                android:shadowColor="@android:color/black"
+                app:buttonColor="@color/colorPrimary"
+                android:layout_margin="8dp"
+                android:layout_height="match_parent" />
+
+            <info.hoang8f.widget.FButton
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:textColor="@android:color/white"
+                android:text="Tải lên"
+                android:id="@+id/btnUpload"
+                android:shadowColor="@android:color/black"
+                app:buttonColor="@color/colorPrimaryDark"
+                android:layout_margin="8dp"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

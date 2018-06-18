@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "115589027013",
+    "firebase_url": "https://androideatit-b5d23.firebaseio.com",
+    "project_id": "androideatit-b5d23",
+    "storage_bucket": "androideatit-b5d23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115589027013:android:1065f61c6fbf7fa9",
+        "android_client_info": {
+          "package_name": "com.example.administrator.oderfoodonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115589027013-d3sbn3ckuak05jd8jnq9qtjid3n7djor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.administrator.oderfoodonline",
+            "certificate_hash": "4c5596974a1d7d0787dbc83b3794198dcedb6110"
+          }
+        },
+        {
+          "client_id": "115589027013-dnrq5snu4pv29qob8c9cj2fu1fbj4v38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvxSACjXcSh9NG0LuD1cpHxLRfNk1j8gs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115589027013-dnrq5snu4pv29qob8c9cj2fu1fbj4v38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115589027013:android:5433ae87522b7bfc",
+        "android_client_info": {
+          "package_name": "com.example.administrator.orderfoodserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115589027013-ia991cubhq8mehn5dv57elmk3dtmkm92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.administrator.orderfoodserver",
+            "certificate_hash": "4c5596974a1d7d0787dbc83b3794198dcedb6110"
+          }
+        },
+        {
+          "client_id": "115589027013-dnrq5snu4pv29qob8c9cj2fu1fbj4v38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvxSACjXcSh9NG0LuD1cpHxLRfNk1j8gs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115589027013-dnrq5snu4pv29qob8c9cj2fu1fbj4v38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115589027013:android:d5c44f00f0a1e599",
+        "android_client_info": {
+          "package_name": "com.example.minhnguyen.appfoodserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115589027013-mm3ofve2dsmc2e81707r306gmbprdsbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.minhnguyen.appfoodserver",
+            "certificate_hash": "47af085bc8e80897af9195bd1b60ea6455f47c65"
+          }
+        },
+        {
+          "client_id": "115589027013-dnrq5snu4pv29qob8c9cj2fu1fbj4v38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvxSACjXcSh9NG0LuD1cpHxLRfNk1j8gs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115589027013-dnrq5snu4pv29qob8c9cj2fu1fbj4v38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
